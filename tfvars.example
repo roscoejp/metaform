@@ -1,0 +1,5 @@
+credentials = "path/to/credentials.json"
+
+external_service_account_name = "terraform-admin@project.iam.gserviceaccount.com"
+org_id = 763538969789
+auto_create_network = true
